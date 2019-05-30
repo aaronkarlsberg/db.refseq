@@ -1,0 +1,15 @@
+#FormatVersion Mauve1
+#Sequence1File	ms2.fasta
+#Sequence1Format	FastA
+#Sequence2File	ms1.fasta
+#Sequence2Format	FastA
+#Sequence3File	ms3.fasta
+#Sequence3Format	FastA
+#BackboneFile	test.xmfa.bbcols
+> 1:1-28 + ms2.fasta
+AAATGTTTTTTAGAGAGAGAGTTAGANN----
+> 2:1-32 + ms1.fasta
+AAATGTTTTTTAGAGAGAGAGTTAGANNAAAA
+> 3:1-30 + ms3.fasta
+AAATTTTTTTTAGAGAGAGAGTTAGANNTT--
+=

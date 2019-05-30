@@ -1,0 +1,27 @@
+#FormatVersion Mauve1
+#Sequence1File	/Users/aaronkarlsberg/Desktop/biopython/msa_fastas/msa1.fa
+#Sequence1Entry	1
+#Sequence1Format	FastA
+#Sequence2File	/Users/aaronkarlsberg/Desktop/biopython/msa_fastas/msa1.fa
+#Sequence2Entry	2
+#Sequence2Format	FastA
+#Sequence3File	/Users/aaronkarlsberg/Desktop/biopython/msa_fastas/msa1.fa
+#Sequence3Entry	3
+#Sequence3Format	FastA
+#BackboneFile	/Users/aaronkarlsberg/Desktop/biopython/msa_fastas/aligned.xmfa.bbcols
+> 1:1-29 + /Users/aaronkarlsberg/Desktop/biopython/msa_fastas/msa1.fa
+AAATGTTTTTTAGAGAGAGAGTTAGANNA
+> 2:1-27 + /Users/aaronkarlsberg/Desktop/biopython/msa_fastas/msa1.fa
+AAATGTTTTTTAGAGAGAGAGTTAGAN--
+> 3:1-29 + /Users/aaronkarlsberg/Desktop/biopython/msa_fastas/msa1.fa
+AAATTTTTTTTAGAGAGAGAGTTAGANNT
+=
+> 1:30-32 + /Users/aaronkarlsberg/Desktop/biopython/msa_fastas/msa1.fa
+AAA
+=
+> 2:28-28 + /Users/aaronkarlsberg/Desktop/biopython/msa_fastas/msa1.fa
+N
+=
+> 3:30-30 + /Users/aaronkarlsberg/Desktop/biopython/msa_fastas/msa1.fa
+T
+=

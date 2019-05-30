@@ -1,0 +1,6 @@
+Make blast database add 1 instance of species for comparison:
+
+makeblastdb -in blast_fastas/blast1.fa -dbtype nucl -parse_seqids -out blast_db/testdb
+
+run blast on different file that is the same species:
+blastn -db blast_db/testdb -query blast_fastas/blast2.fa -out blast_results/results.out -outfmt "7 qseqid sseqid pident qlen length mismatch" 
